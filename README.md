@@ -1,6 +1,6 @@
 # Oleksandr Mosiichuk
 
-## General Quality Assurance Engineer
+General Quality Assurance Engineer
 
 ---
 
