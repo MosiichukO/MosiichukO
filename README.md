@@ -22,7 +22,7 @@
 
 <br><br>
 
-## 🥷 Technologies & tools
+## 🥷 Technologies & Tools
 
 <p>
   <b>Automation Stack:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
